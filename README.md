@@ -1,5 +1,19 @@
 # console.log('Hello World!!!') <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+```javascript
+const daniela👋😄  = {
+
+  office: "programmer",
+  
+  passions: [ pizza, pineapple, movies, travel ],
+  
+  code: [ JavaScript, HTML, CSS, MySQL ],
+  
+  tools: [ NodeJs, MVC, Express, APIs, GIT, GitHub, SCRUM ],
+  
+}
+```
+
 <!--
 **DanielaCalisaya/DanielaCalisaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,22 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 👋😄 
-
-
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
+challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 -->
