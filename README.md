@@ -5,11 +5,11 @@ const daniela👋😄  = {
 
   office: "programmer",
   
-  passions: [ pizza, pineapple, movies, travel ],
+  passions: [ pizza, pineapple, music, movies, travel ],
   
   code: [ JavaScript, HTML, CSS, MySQL ],
   
-  tools: [ NodeJs, MVC, Express, APIs, GIT, GitHub, SCRUM ],
+  tools: [ NodeJs, Express, Sequelize, APIs, MVC, React, GIT, GitHub, SCRUM ],
   
 }
 ```
