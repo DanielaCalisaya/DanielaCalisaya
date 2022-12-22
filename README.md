@@ -1,4 +1,4 @@
-# console.log('Hello World!!!') <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# console.log('Hello World!!!') <img src="https://giphy.com/gifs/heyarnold-nickelodeon-hey-arnold-xT1R9yaseVFXRjcFsA/fullscreen" width="50">
 
 ```javascript
 const daniela👋😄  = {
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 👋😄 
 challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
--->
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>-->
