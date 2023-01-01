@@ -1,18 +1,24 @@
-# console.log('Hello World!!!') 
+# console.log('Hello World!!!')
 
-```javascript
+```javascript 
 const daniela👋😄  = {
 
-  office: "programmer",
-  
-  passions: [ pizza, pineapple, music, movies, travel ],
+  office: "programmer" -> Specializing as a Frontend developer,
   
   code: [ JavaScript, HTML, CSS, MySQL ],
   
   tools: [ NodeJs, Express, Sequelize, APIs, MVC, React, GIT, GitHub, SCRUM ],
   
+  learning: [ UX-UI designer ]
+  
+  passions: [ pizza, pineapple, music, movies, travel & Arn♥ld],
+  
 }
 ```
+<img src="https://media.giphy.com/media/xT1R9yaseVFXRjcFsA/giphy.gif" width="480" height="360"></img>
+
+### `< Oye Arnold!! Are you ready?? />`
+
 
 <!--
 **DanielaCalisaya/DanielaCalisaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +37,4 @@ Here are some ideas to get you started:
 challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-<iframe src="https://giphy.com/embed/xT1R9yaseVFXRjcFsA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/heyarnold-nickelodeon-hey-arnold-xT1R9yaseVFXRjcFsA">via GIPHY</a></p>
 -->
